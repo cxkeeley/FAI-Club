@@ -57,8 +57,8 @@ const Banner = () => {
         initial="initial"
         animate="animate"
       >
-        <motion.span variants={itemTitleAnimation}>DIG</motion.span>
-        <motion.span variants={itemTitleAnimation}>DEEP</motion.span>
+        <motion.span variants={itemTitleAnimation}>FAI</motion.span>
+        <motion.span variants={itemTitleAnimation}>CLUB</motion.span>
       </BannerTitle>
     </BannerSection>
   );
