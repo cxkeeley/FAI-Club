@@ -162,7 +162,7 @@ const Menu = () => {
               {isMobile && (
                 <Address>
                   <FooterText>
-                    3768 W Coquina Way<br /> Weston, FL
+                  57XG+PG, Downtown Dubai<br /> Dubai, United Arab Emirates
                   </FooterText>
                 </Address>
               )}

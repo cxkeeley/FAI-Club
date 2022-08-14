@@ -49,7 +49,7 @@ const About = () => {
           </p>
         </TextWrapper>
         <ServicesWrapper>
-          <h3>Services</h3>
+          <h3>What do we love?</h3>
           {items.map(([item, services], itemIndex) => (
             <React.Fragment key={item}>
               <AccordionToggle

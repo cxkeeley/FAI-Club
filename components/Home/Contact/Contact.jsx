@@ -30,7 +30,7 @@ const Contact = () => {
           </a>
         </div>
         <address className="column contact-text">
-          3768 W Coquina Way<br /> Weston, FL
+        57XG+PG, Downtown Dubai<br /> Dubai, United Arab Emirates
         </address>
         <SocialMedia className="column" />
       </ContactSection>

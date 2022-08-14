@@ -1,6 +1,6 @@
 export default [
   [
-    'Pre-Production',
+    'Ecommerce',
     [
       'Creative Development',
       'Writing',
@@ -14,7 +14,7 @@ export default [
     ],
   ],
   [
-    'Video Production',
+    'Stocks',
     [
       'Principle Photography',
       'Production Management',
@@ -24,7 +24,7 @@ export default [
     ],
   ],
   [
-    'Post-Production',
+    'Crypto',
     [
       'Colour correction',
       'Offline editing',
@@ -39,7 +39,37 @@ export default [
     ],
   ],
   [
-    'Audio Post-Production',
+    'Real Estate',
+    [
+      'We work with some amazing partners who provide:',
+      'Sound Design',
+      'SFX',
+      'Music',
+      'Sound Mix',
+    ],
+  ],
+  [
+    'Entrepreneurship',
+    [
+      'We work with some amazing partners who provide:',
+      'Sound Design',
+      'SFX',
+      'Music',
+      'Sound Mix',
+    ],
+  ],
+  [
+    'Luxury Watches',
+    [
+      'We work with some amazing partners who provide:',
+      'Sound Design',
+      'SFX',
+      'Music',
+      'Sound Mix',
+    ],
+  ],
+  [
+    'Freelancing',
     [
       'We work with some amazing partners who provide:',
       'Sound Design',

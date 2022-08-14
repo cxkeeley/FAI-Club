@@ -81,18 +81,18 @@ const FeaturedProject = () => {
               onHoverEnd={handleAnchorHoverEnd}
             >
               <ProjectInfo>
-                <h3>Featured Project</h3>
+                <h3>Friends & Investors</h3>
                 <motion.div
                   initial={{ opacity: 0 }}
                   animate={controlsInfo}
                   transition={transition}
                   className="project-info"
                 >
-                  <h4>PEI Seafood</h4>
-                  <h4>2019</h4>
+                  <h4>For the 1% of 1%</h4>
+                  <h4>Invite Only</h4>
                 </motion.div>
                 <ProjectTitle>
-                  NOT <br /> HUMBLE
+                  JOIN <br /> THE CLUB
                   <span className="arrow">
                     <Arrow animate={controlsArrow} transition={transition} />
                   </span>
@@ -109,7 +109,7 @@ const FeaturedProject = () => {
         <MenuContainer>
           <MenuButton
             sticky={false}
-            title="All Projects"
+            title="Who are we?"
             onMouseEnter={handleMouseEnter}
             onMouseLeave={handleMouseLeave}
           />
