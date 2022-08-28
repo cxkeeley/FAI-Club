@@ -27,7 +27,7 @@ export const TextWrapper = styled.div`
     margin: 0;
     margin-bottom: 44px;
     max-width: 600px;
-    font-size: 2.625rem;
+    font-size: 2.325rem;
     line-height: 1;
     font-weight: 500;
   }

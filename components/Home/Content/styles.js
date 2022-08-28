@@ -26,7 +26,24 @@ export const Text = styled.h2`
   margin: 0;
   font-size: 2.625rem;
   line-height: 1;
-  font-weight: 500;
+  font-weight: 400;
+  max-width: 640px;
+
+  ${({ theme }) => theme.breakpoints.tablet`
+    font-size: 1.5rem;
+    line-height: 1;
+
+    & br {
+      display: none;
+    }
+  `};
+`;
+
+export const Text2 = styled.h2`
+  margin: 0;
+  font-size: 1.825rem;
+  line-height: 1;
+  font-weight: 400;
   max-width: 640px;
 
   ${({ theme }) => theme.breakpoints.tablet`

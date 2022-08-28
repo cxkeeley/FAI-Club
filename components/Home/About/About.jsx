@@ -36,17 +36,13 @@ const About = () => {
     <AnimateOnScreen>
       <ContentSection>
         <TextWrapper>
-          <h2>
-            Furrow is an integrated, full-service creative studio offering video
-            production, creative development, and post-production services.
-          </h2>
+          <h2><i>
+          An exclusive group, with access to an elite league of creative, technical, and entrepreneurial think tanks. We put together ideas, strategies, and real-world applications to scale businesses and build empowering stories.
+          </i></h2>
           <p>
-            Everybody’s got a story. And we don’t stop until we’ve uncovered
-            what makes yours worth telling. Whether it’s working directly with
-            you, an agency partner, or putting the finishing touches on
-            something special, we’re ready to dig in and get our hands dirty—are
-            you?
+          Hunger to add value and create impact. We are a support network to facilitate members through challenges, disrupt the status quo, explore untapped territories, see blind spots, and align your vision of success with your values.
           </p>
+          
         </TextWrapper>
         <ServicesWrapper>
           <h3>What do we love?</h3>
