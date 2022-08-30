@@ -70,6 +70,5 @@ export const BannerTitle = styled(motion.h1)`
     font-size: 160px;
     font-size: 10rem;
     line-height: .68125;
-    overflow: hidden;
   `};
 `;
