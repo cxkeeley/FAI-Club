@@ -19,6 +19,16 @@ export const BannerSection = styled.section`
 
   ${({ theme }) => theme.breakpoints.tablet`
     margin-bottom: 90px;
+
+    & canvas {
+      display: none;
+    }
+  `};
+
+  ${({ theme }) => theme.breakpoints.small`
+    & canvas {
+      display: none;
+    }
   `};
 `;
 
@@ -60,6 +70,5 @@ export const BannerTitle = styled(motion.h1)`
     font-size: 160px;
     font-size: 10rem;
     line-height: .68125;
-    overflow: hidden;
   `};
 `;
