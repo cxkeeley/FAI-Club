@@ -19,6 +19,16 @@ export const BannerSection = styled.section`
 
   ${({ theme }) => theme.breakpoints.tablet`
     margin-bottom: 90px;
+
+    & canvas {
+      display: none;
+    }
+  `};
+
+  ${({ theme }) => theme.breakpoints.small`
+    & canvas {
+      display: none;
+    }
   `};
 `;
 
