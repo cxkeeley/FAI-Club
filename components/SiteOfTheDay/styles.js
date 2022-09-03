@@ -5,7 +5,17 @@ export const Container = styled.div`
   transform: translateY(-50%);
   top: 50%;
   right: 0;
-  width: 62px;
-  height: 250px;
+  width: 60px;
+  height: 260px;
   z-index: ${({ theme }) => theme.zIndex.awwwards};
+
+  ${({ theme }) => theme.breakpoints.small`
+    width: 53.08px;
+    height: 171.358px;
+  `};
+
+  ${({ theme }) => theme.breakpoints.tablet`
+    width: 53.08px;
+    height: 171.358px;
+  `};
 `;
